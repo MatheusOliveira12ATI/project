@@ -7,7 +7,7 @@
 
 body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #f9f9f9; 
+    background-color: #800000; 
 }
 
 
@@ -15,7 +15,7 @@ header {
     display: flex;
     justify-content: center; 
     align-items: center;     
-    background-color: #4CAF50; 
+    background-color: #a20202; 
     height: 6rem;           
 }
 
@@ -30,15 +30,15 @@ header {
 }
 
 img {
-    width: 10rem;             
-    height: 10rem;            
+    width: 15rem;             
+    height: 15rem;            
 }
 
 .segunda {
     display: flex;
     justify-content: center; 
     align-items: center;       
-    background-color: #e0e0e0;
+    background-color: #bb0b0b;
     height: 25rem;             
     gap: 20px;                
 }
@@ -56,8 +56,8 @@ p {
 }
 
 .terceira img {
-    width: 5rem;              
-    height: 5rem;              
+    width: 15rem;              
+    height: 15rem;              
 }
 
 
